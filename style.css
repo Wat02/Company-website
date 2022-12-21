@@ -69,7 +69,7 @@
 
    .slika {
     min-height: 100vh;
-    background: url("../siteforcliend/img/pexels-jane-doan-1024248.jpg");
+    background: url("img/pexels-jane-doan-1024248.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -502,17 +502,17 @@
   }
   
   .about-pages div:nth-child(1) {
-      background: url("../siteforcliend/img/pexels-jane-doan-1024248.jpg") center no-repeat;
+      background: url("img/pexels-jane-doan-1024248.jpg") center no-repeat;
       background-size: cover;
     }
   
   .about-pages div:nth-child(2) {
-      background: url("../siteforcliend/img/pexels-jane-doan-1024248.jpg") center no-repeat;
+      background: url("img/pexels-jane-doan-1024248.jpg") center no-repeat;
       background-size: cover;
     }
   
   .about-pages div:nth-child(3) {
-      background: url("../siteforcliend/img/pexels-jane-doan-1024248.jpg") center no-repeat;
+      background: url("img/pexels-jane-doan-1024248.jpg") center no-repeat;
       background-size: cover;
  }
 
@@ -664,9 +664,6 @@
 }
 
 
-
-
-/* STYLES SPECIFIC TO FOOTER  */
 .footer {
   width: 100%;
   position: relative;
