@@ -2,7 +2,7 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-    font-family: roboto;
+    font-family: Schibsted Grotesk;
     user-select: none;
     scroll-behavior: smooth;
   }
@@ -79,11 +79,12 @@
    .big-text {
     position: absolute;
     top: 50%;
+    text-align: center;
     left: 50%;
     transform: translate(-50%, -30%);
     font-size: 6rem;
     font-family: "Lobster", cursive;
-    color: #FFFDFA;
+    color: white;
   }
 
    .nav-container {  
@@ -234,8 +235,7 @@
   
   .intro-text {
     color: rgb(233, 233, 233);
-    font-family: "Heebo", sans-serif;
-    font-size: 3rem;
+    font-size: 6rem;
   }
   
   .hide {
@@ -549,7 +549,7 @@
   grid-template-columns: repeat(6,1fr);
   grid-auto-rows:100px 300px;
   grid-gap:10px;
-  padding-bottom: 50px;
+  padding-bottom: 200px;
   grid-auto-flow: dense;
 }
 
